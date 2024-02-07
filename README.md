@@ -32,22 +32,22 @@
 ## Academics Projects
 
 ### Sorting Visualizer
-[Publication](https://ramankaleramne.github.io/Sorting-Visualizer/)
-It is a web app that does the visualization of various Sorting Algorithms.
-Technologies Used : HTML, CSS, Javascript, React, Data Structure and Algorithms.
+- It is a web app that does the visualization of various Sorting Algorithms.
+- Technologies Used : HTML, CSS, Javascript, React, Data Structure and Algorithms.
+- [Website Link](https://ramankaleramne.github.io/Sorting-Visualizer/)
 
 
 ### "Cricket Score Prediction" App.
-It is a web app that predicts the first inning's score of an ODI cricket match.
-Technologies used : Python, Machine Learning, Flask, HTML+CSS .
+- It is a web app that predicts the first inning's score of an ODI cricket match.
+- Technologies used : Python, Machine Learning, Flask, HTML+CSS .
 
 
 ### "Attendance System" using Machine Learning.
-It is a desktop app that marks the attendance of the students present in a classroom and stores the records.
-Technologies used : Machine Learning ,Deep Learning,Python.
+- It is a desktop app that marks the attendance of the students present in a classroom and stores the records.
+- Technologies used : Machine Learning ,Deep Learning,Python.
 
 ### "Face Filters App" using Machine Learning.
-It is a Desktop app that is used to apply different filters on user's face.
+- It is a Desktop app that is used to apply different filters on user's face.
 
 ## CERTIFICATES
 - Automation in Python
